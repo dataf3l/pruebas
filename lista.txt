@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x    5 a  staff   170B Apr 21 19:13 ./
+drwxr-xr-x@ 140 a  staff   4.6K Apr 21 19:10 ../
+drwxr-xr-x   12 a  staff   408B Apr 21 19:09 .git/
+-rw-r--r--    1 a  staff     5B Apr 21 19:07 algo.txt
+-rw-r--r--    1 a  staff     0B Apr 21 19:13 lista.txt
